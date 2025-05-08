@@ -1,0 +1,16 @@
+/* body {
+    background-color:aqua;
+    background-image: url(../images/01-02-02_background-img.jpg);
+    background-size: contain; 
+} */
+
+body {
+    background-color:aqua;
+    background-image: url(/assets/images/01-02-02_background-img.jpg);
+    background-size: contain;
+    background-repeat: no-repeat; 
+}
+
+h1 {
+    color:blue;
+}
