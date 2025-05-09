@@ -6,7 +6,7 @@
 
 body {
     background-color:aqua;
-    background-image: url(/assets/images/01-02-02_background-img.jpg);
+    background-image: url(assets/images/01-02-02_background-img.jpg);
     background-size: cover;
 }
 
